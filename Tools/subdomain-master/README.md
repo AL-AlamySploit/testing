@@ -4,6 +4,9 @@
 
 ## ★ Description:
 
+الاداة تقوم بسحب السوب دومين الخاص بالمواقع وحفظه
+
+
 Simple Script Python For Searching Subdomain And save results
 
 ## ★ Download:
